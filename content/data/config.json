@@ -30,7 +30,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo_alt": "Almo Trading"
     },
     "footer": {
         "has_nav": true,
