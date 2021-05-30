@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Almo Trading
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: We are committed to Quality Products and Quality Services.
     actions:
       - label: Learn More
         url: /features
