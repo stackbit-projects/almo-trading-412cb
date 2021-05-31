@@ -38,10 +38,10 @@ sections:
             url: /features
             style: secondary
       - title: Shipping and Moving Boxes
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Eco-friendly moving and storage options for all valuables and
+          household items. Perfect for items of all sizes from books and CD's to
+          lamps and more.
         align: left
         image: /images/moving-boxes.jpg
         image_alt: Feature 2 placeholder image
