@@ -51,10 +51,11 @@ sections:
             url: /features
             style: secondary
       - title: Food Boxes
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Choose packaging that reflects the value of your food and appeals to
+          your customers. From sleek and stackable to clear and compostable, you
+          can find a large variety of boxes, bags, and unique food packaging in
+          this selection.
         align: left
         image: /images/food-boxes.jpg
         image_alt: Feature 3 placeholder image
