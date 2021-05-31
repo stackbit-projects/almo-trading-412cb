@@ -26,10 +26,9 @@ sections:
     title: Our Products
     features:
       - title: Custom Boxes
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          With our custom-printed boxes, you can choose the color, create a
+          design with your own logo and have the boxes ready for you in no time.
         align: left
         image: /images/custom-boxes.jpg
         image_alt: Feature 1 placeholder image
