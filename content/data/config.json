@@ -31,7 +31,8 @@
                 "style": "primary"
             }
         ],
-        "logo_alt": "Almo Trading"
+        "logo_alt": "Almo Trading",
+        "logo": "/images/almo-trading-logo-2.png"
     },
     "footer": {
         "has_nav": true,
