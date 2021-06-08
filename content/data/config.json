@@ -6,6 +6,14 @@
         "has_nav": true,
         "nav_links": [
             {
+                "label": "Home",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "About",
                 "url": "/about",
                 "style": "link"
@@ -14,14 +22,6 @@
                 "label": "Contact Us",
                 "url": "/contact",
                 "style": "primary"
-            },
-            {
-                "label": "Home",
-                "url": "#",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "logo_alt": "Almo Trading",
