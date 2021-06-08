@@ -1,5 +1,5 @@
 ---
-title: Who We Are
+title: Privacy Policy
 sections:
   - type: hero_section
     title: Privacy Policy
