@@ -26,6 +26,9 @@ sections:
         style: secondary
     has_background: true
     background_color: blue
+    subtitle: >-
+      Tell us your custom box requirements and we will produce a quote in no
+      time.
 seo:
   title: Who We Are
   description: This is the about us page
