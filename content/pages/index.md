@@ -77,7 +77,7 @@ sections:
       time.
 seo:
   title: Almo Trading
-  description: Almo Trading
+  description: 'Custom, Shipping, Moving and Food Boxes'
   extra:
     - name: 'og:type'
       value: website
