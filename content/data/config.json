@@ -36,7 +36,7 @@
         "content": "lorem-ipsum",
         "links": [
             {
-                "label": "lorem-ipsum",
+                "label": "Privacy Policy",
                 "url": "/privacy",
                 "style": "link",
                 "new_window": false,
