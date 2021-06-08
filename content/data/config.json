@@ -30,16 +30,7 @@
     "domain": "https://almotrading.com",
     "footer": {
         "has_nav": true,
-        "nav_links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ],
+        "nav_links": [],
         "has_social": true,
         "social_links": [],
         "content": "Privacy Policy",
