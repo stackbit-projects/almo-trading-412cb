@@ -77,7 +77,7 @@ sections:
       time.
 seo:
   title: Almo Trading
-  description: The preview of the Starter theme
+  description: Almo Trading
   extra:
     - name: 'og:type'
       value: website
