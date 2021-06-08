@@ -27,5 +27,14 @@
         "logo_alt": "Almo Trading",
         "logo": "/images/almo-trading-logo-2.png"
     },
-    "domain": "https://almotrading.com"
+    "domain": "https://almotrading.com",
+    "footer": {
+        "has_nav": true,
+        "nav_links": [],
+        "has_social": true,
+        "social_links": [],
+        "content": "lorem-ipsum",
+        "links": [],
+        "type": "footer"
+    }
 }
