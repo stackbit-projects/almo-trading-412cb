@@ -68,7 +68,7 @@ sections:
     title: Contact Us About Your Project!
     actions:
       - label: Contact
-        url: /features
+        url: /contact
         style: primary
     has_background: true
     background_color: gray
