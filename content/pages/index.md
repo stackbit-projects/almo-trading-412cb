@@ -72,7 +72,7 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-    subtitle: 'Tell us your project requirements, budget, and timeline,'
+    subtitle: 'Tell us your project requirements, budget, and timeline'
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
