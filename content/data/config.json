@@ -34,7 +34,16 @@
         "has_social": true,
         "social_links": [],
         "content": "Privacy Policy",
-        "links": [],
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ],
         "type": "footer"
     }
 }
