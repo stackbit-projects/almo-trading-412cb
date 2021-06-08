@@ -76,7 +76,7 @@ sections:
       Tell us your custom box requirements and we will produce a quote in no
       time.
 seo:
-  title: Almo Trading
+  title: Almo Trading -Almo Trading
   description: 'Custom, Shipping, Moving and Food Boxes'
   extra:
     - name: 'og:type'
