@@ -76,7 +76,7 @@ sections:
       Tell us your custom box requirements and we will produce a quote in no
       time.
 seo:
-  title: Stackbit Starter Theme
+  title: Almo Trading
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
