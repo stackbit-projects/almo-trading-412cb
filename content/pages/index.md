@@ -72,7 +72,9 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-    subtitle: 'Tell us your custom box requirements, budget, and timeline'
+    subtitle: >-
+      Tell us your custom box requirements and we will produce a quote in no
+      time.
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
