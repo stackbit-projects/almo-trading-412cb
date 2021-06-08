@@ -67,7 +67,7 @@ sections:
   - type: cta_section
     title: Contact Us About Your Project!
     actions:
-      - label: Learn More
+      - label: Contact
         url: /features
         style: primary
     has_background: true
