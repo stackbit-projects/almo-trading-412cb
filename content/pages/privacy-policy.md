@@ -20,7 +20,6 @@ sections:
       turpis in eu mi bibendum neque egestas.
   - type: cta_section
     title: Contact Us About Your Project!
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     actions:
       - label: Contact Us
         url: /contact
