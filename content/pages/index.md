@@ -77,7 +77,7 @@ sections:
       time.
 seo:
   title: 'Almo Trading -Custom, Shipping, Moving and Food Boxes'
-  description: 'Custom, Shipping, Moving and Food Boxes'
+  description: We are committed to Quality Products and Quality Services.
   extra:
     - name: 'og:type'
       value: website
